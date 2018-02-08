@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "890528692546",
+    "firebase_url": "https://moviewood1111.firebaseio.com",
+    "project_id": "moviewood1111",
+    "storage_bucket": "moviewood1111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890528692546:android:286f9756a06b6b1f",
+        "android_client_info": {
+          "package_name": "com.example.tcc.moviewood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890528692546-6hohqr6uf64og390t8i7j5fubjdrj1om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvnJJUyCf26cmHt5an1VABE8H4l-mvue4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
